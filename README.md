@@ -103,7 +103,7 @@ Default local dev server settings:
 ## Recommended Development Flow (With `doc/` Docs)
 
 1. Read [SDK API Reference (English)](./doc/README.md) to confirm SDK initialization flow and target module APIs.
-2. Read [AI Integration and Application Development Guide (English)](./doc/AICreateApplication-EN.md) to organize your business requirements and AI prompt.
+2. Read [AI Integration and Application Development Guide (English)](./doc/AICreateApplication.md) to organize your business requirements and AI prompt.
 3. Implement pages and logic in `src/App.tsx`, prioritizing SDK capabilities over native browser features (such as local storage).
 4. Use `npm run dev` for local debugging, then run `npm run upload` after completion.
 
